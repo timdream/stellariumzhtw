@@ -1,0 +1,12 @@
+
+Require Inno Setup: http://www.innosetup.com/isinfo.php
+
+Checkout all files, use Inno Setip to open one of the .iss file,
+you should be able to "compile" right away without any difficulty.
+
+To develop your own version, create a "latest" folder/directory under tags
+instead of a "trunk" folder/directory at the root. DO NOT COMMIT latest without
+renaming.
+
+Note: You are responsible to change the Support URLs if you want to distribute
+your modified file.

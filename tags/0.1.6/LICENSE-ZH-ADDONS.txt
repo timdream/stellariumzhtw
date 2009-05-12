@@ -1,0 +1,11 @@
+"Stellarium 正體中文增強包" v 0.1.6
+作者：timdream
+網址：http://timc.idv.tw/stellarium/
+
+下列檔案已隨著中文包安裝到您的電腦，請遵守各檔案的授權條款進行合理運用。
+
+wt011.ttf - 王漢宗字型是由王漢宗老師所設計的自由字型，在GPL授權條款下可自由使用。
+
+config.ini, default_config.ini, fontmap.dat, user_locations.txt - 字型與相關設定檔，作者 (timdream) 將檔案視為公共財授予大眾，但請勿取走後宣稱是自己的作品。
+
+stellarium.mo - Stellarium 正體中文翻譯更新，GPL授權條款。
